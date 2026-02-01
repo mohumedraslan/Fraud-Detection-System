@@ -1,0 +1,28 @@
+# Core ML libraries (Python 3.12 compatible)
+numpy>=1.26.4
+pandas>=2.2.0
+scikit-learn>=1.4.2
+imbalanced-learn>=0.12.2
+joblib>=1.4.2
+
+# API Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.1
+pydantic>=2.6.4
+python-multipart>=0.0.9
+
+# AWS SDK
+boto3>=1.34.0
+
+# Monitoring & Logging
+prometheus-client>=0.20.0
+python-json-logger>=2.0.7
+
+# Testing
+pytest>=8.1.1
+httpx>=0.27.0
+
+# Jupyter
+jupyter>=1.0.0
+matplotlib>=3.8.3
+seaborn>=0.13.2
