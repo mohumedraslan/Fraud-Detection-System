@@ -2,8 +2,6 @@
 
 Real-time credit card fraud detection API with **99% uptime**, processing **1,000+ daily requests**, deployed with automated CI/CD workflows.
 
-[![CI/CD Pipeline](https://github.com/YOUR_USERNAME/fraud-detection-fastapi/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/YOUR_USERNAME/fraud-detection-fastapi/actions)
-[![codecov](https://codecov.io/gh/YOUR_USERNAME/fraud-detection-fastapi/branch/main/graph/badge.svg)](https://codecov.io/gh/YOUR_USERNAME/fraud-detection-fastapi)
 
 ## 🎯 Project Highlights
 
