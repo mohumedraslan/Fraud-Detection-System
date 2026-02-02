@@ -266,9 +266,9 @@ MIT License
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
+- GitHub: [@Mohumed Raslan](https://github.com/mohumedraslan)
+- LinkedIn: [@Mohumed Raslan](https://www.linkedin.com/in/mohumed-raslan/)
+- Email: mohumedraslan@example.com
 
 ---
 
