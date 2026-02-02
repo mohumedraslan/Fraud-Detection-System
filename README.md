@@ -263,11 +263,10 @@ MIT License
 
 ## 👤 Author
 
-**Your Name**
+**Mohumed Raslan**
 - GitHub: [@Mohumed Raslan](https://github.com/mohumedraslan)
 - LinkedIn: [@Mohumed Raslan](https://www.linkedin.com/in/mohumed-raslan/)
 - Email: mohumedraslan@example.com
-
 ---
 
 Built with ❤️ using FastAPI and Machine Learning
